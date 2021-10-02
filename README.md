@@ -5,9 +5,8 @@
 
 
 - I’m currently working on Blockchain technology, React, NodeJS
-- Enthuastic about Data science, Machine learning, AI, astronomy, cryptocurrency and anything about Football
+- Enthuastic about Machine learning, Data science, Blockchain, AI, cryptocurrency, astronomy, and anything about Football
 - Reach me up for any type of collaboration. Love working in collabs.
-- Ask about anything related to data science and football. It's one of those things I can talk about for hours. 
 
 ### My Stacks
 <img src="https://img.shields.io/badge/Languages-551515?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-cpp](https://img.shields.io/badge/c%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=79740e&labelColor=151515)![badge-python](https://img.shields.io/badge/python-151515?style=for-the-badge&logo=python&logoColor=79740e&labelColor=151515)![badge-java](https://img.shields.io/badge/java-151515?style=for-the-badge&logo=java&logoColor=79740e&labelColor=151515) <br/>
