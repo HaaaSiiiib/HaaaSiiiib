@@ -1,11 +1,12 @@
 ### Hola, I'm Hasib. 👋
 
-#### I'm a student, programmer, CS enthusiast!
+#### I'm a undergrad CS student wh
 
 
 
-- I’m currently working on Blockchain technology, React, NodeJS
-- Enthuastic about Machine learning, Data science, Blockchain, AI, cryptocurrency, astronomy, and anything about Football
+- Currently working on Blockchain technology. 
+- Trying to learn about Machine learning, Data science, AI, cryptocurrency.
+- Besides all the techy stuff I'm very much enthusiastic about astronomy, and anything related to Football.
 - Reach me up for any type of collaboration. Love working in collabs.
 
 ### My Stacks
