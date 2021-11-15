@@ -27,9 +27,10 @@
 <p align="center">
 <span>&nbsp;</span>
 <a href="https://github.com/HaaaSiiiib/EL-evento">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=EL-evento&border_icons=true&theme=gotham" height="50%" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=EL-evento&border_icons=true&theme=gotham" height="50%" width="45%"/>
 </a>
 </p>
+
 
 ### Connect with me :
 <a href="https://www.reddit.com/user/haaasiiiib">
