@@ -1,7 +1,7 @@
 
 <!-- ! Intro Gif Video -->
 <p align="center">
-  <img height="540" width="970" src="Intro.gif"/>
+  <img height="250" width="660" src="Intro.gif"/>
 </p>
 
 ### Hola, I'm Hasib. 👋
@@ -48,9 +48,6 @@
 
 <br />
 <br />
-
-
-![Profile views](https://gpvc.arturio.dev/HaaaSiiiib)
 
 <!-- Profile Count -->
 <p align="center"> 
