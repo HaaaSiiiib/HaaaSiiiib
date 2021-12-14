@@ -10,9 +10,9 @@
 
 
 
-- Currently working on Blockchain technology. 
-- Trying to learn about Machine learning, Data science, AI, cryptocurrency.
-- Besides all the techy stuff I'm very much enthusiastic about Astrophysics, anything related to Football.
+- Currently working on building web applications and Blockchain technology. 
+- Trying to learn about Machine learning, Data science, AI.
+- Besides all the techy stuff I'm very much enthusiastic about Astrophysics and anything related to Football.
 - Email me at : <img src="https://img.shields.io/badge/fuad13618hasib@gmail.com-c14438?style=oval&logo=Gmail&logoColor=white&link=mailto:fuad13618hasib@gmail.com" width="170" height="17">
 - Reach me up for any type of collaboration. Love working in collabs.
 
