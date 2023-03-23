@@ -67,7 +67,7 @@
 
 
 
-### Connect with me :
+## 🪩 Connect with me :
 <a href="https://www.reddit.com/user/haaasiiiib">
   <img src="https://img.shields.io/badge/haaasiiiib-151515?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
