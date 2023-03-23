@@ -17,7 +17,7 @@
 - Reach me up for any type of collaboration. Love working in collabs.
 
 ## 💻 Tech Stack:
-<img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=Java&logoColor=007396"><img src="https://img.shields.io/badge/C++-151515?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"><img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=3776AB"> <br/>
+<img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=java&logoColor=007396"><img src="https://img.shields.io/badge/C++-151515?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"><img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=3776AB"> <br/>
 <img src="https://img.shields.io/badge/Frameworks-424242?style=for-the-badge&logo=IPFS&logoColor=FFFFFF"><img src="https://img.shields.io/badge/git-151515?style=for-the-badge&logo=git&logoColor=79740e"><img src="https://img.shields.io/badge/Anrdoid_Studio-151515?style=for-the-badge&logo=Android-Studio&logoColor=3DDC84">![badge-react](https://img.shields.io/badge/react-151515?style=for-the-badge&logo=react&logoColor=79740e) <br/>
 <img src="https://img.shields.io/badge/Database-424242?style=for-the-badge&logo=Redis&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Firebase-151515?style=for-the-badge&logo=Firebase&logoColor=FFCA28"><img src="https://img.shields.io/badge/Mysql-151515?style=for-the-badge&logo=mysql&logoColor=4479A1">
 
