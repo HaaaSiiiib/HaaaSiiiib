@@ -16,7 +16,7 @@
 - Email me at : <img src="https://img.shields.io/badge/fuad13618hasib@gmail.com-c14438?style=oval&logo=Gmail&logoColor=white&link=mailto:fuad13618hasib@gmail.com" width="170" height="17">
 - Reach me up for any type of collaboration. Love working in collabs.
 
-### My Stacks
+## 💻 Tech Stack:
 <img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=Java&logoColor=007396"><img src="https://img.shields.io/badge/C++-151515?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"><img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=3776AB"> <br/>
 <img src="https://img.shields.io/badge/Frameworks-424242?style=for-the-badge&logo=IPFS&logoColor=FFFFFF"><img src="https://img.shields.io/badge/git-151515?style=for-the-badge&logo=git&logoColor=79740e"><img src="https://img.shields.io/badge/Anrdoid_Studio-151515?style=for-the-badge&logo=Android-Studio&logoColor=3DDC84">![badge-react](https://img.shields.io/badge/react-151515?style=for-the-badge&logo=react&logoColor=79740e) <br/>
 <img src="https://img.shields.io/badge/Database-424242?style=for-the-badge&logo=Redis&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Firebase-151515?style=for-the-badge&logo=Firebase&logoColor=FFCA28"><img src="https://img.shields.io/badge/Mysql-151515?style=for-the-badge&logo=mysql&logoColor=4479A1">
@@ -31,14 +31,14 @@
 <p align="center">
 <span>&nbsp;</span>
 <a href="https://github.com/HaaaSiiiib/Simple-Licensor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=Simple-Licensor&border_icons=true&theme=gotham" height="50%" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=Simple-Licensor&border_icons=true&theme=swift" height="50%" width="45%"/>
 </a>
 </p>
 
 <p align="center">
 <span>&nbsp;</span>
 <a href="https://github.com/HaaaSiiiib/Vehicle-and-Pedistrian-detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=Vehicle-and-Pedistrian-detection&border_icons=true&theme=gotham" height="50%" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=Vehicle-and-Pedistrian-detection&border_icons=true&theme=swift" height="50%" width="45%"/>
 </a>
 </p>
 
@@ -46,14 +46,14 @@
 <p align="center">
 <span>&nbsp;</span>
 <a href="https://github.com/HaaaSiiiib/CSE-446">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=CSE-446&border_icons=true&theme=gotham" height="50%" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=CSE-446&border_icons=true&theme=swift" height="50%" width="45%"/>
 </a>
 </p>
 
 <p align="center">
 <span>&nbsp;</span>
 <a href="https://github.com/HaaaSiiiib/EL-evento">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=EL-evento&border_icons=true&theme=gotham" height="50%" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=EL-evento&border_icons=true&theme=swift" height="50%" width="45%"/>
 </a>
 </p>
 
