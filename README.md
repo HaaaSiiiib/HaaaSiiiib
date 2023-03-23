@@ -25,7 +25,7 @@
 <img  align="left" height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HaaaSiiiib&layout=compact&langs_count=10&hide=jupyter%20notebook&hide_border=false&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
 </a>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=HaaaSiiiib&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="35%"></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=HaaaSiiiib&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="45%"></p>
 
 📌 **Pinned Repositories**
 <p align="center">
