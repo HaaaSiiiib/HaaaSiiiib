@@ -38,14 +38,14 @@
 <p align="center">
 <span>&nbsp;</span>
 <a href="https://github.com/HaaaSiiiib/Simple-Licensor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=Simple-Licensor&border_icons=true&theme=swift&border_radius=29.5" height="60%" width="65%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=Simple-Licensor&border_icons=true&theme=swift&border_radius=29.5" height="55%" width="60%"/>
 </a>
 </p>
 
 <p align="center">
 <span>&nbsp;</span>
 <a href="https://github.com/HaaaSiiiib/Vehicle-and-Pedistrian-detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=Vehicle-and-Pedistrian-detection&border_icons=true&theme=swift&border_radius=29.5" height="60%" width="65%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=Vehicle-and-Pedistrian-detection&border_icons=true&theme=swift&border_radius=29.5" height="55%" width="60%"/>
 </a>
 </p>
 
@@ -53,14 +53,14 @@
 <p align="center">
 <span>&nbsp;</span>
 <a href="https://github.com/HaaaSiiiib/CSE-446">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=CSE-446&border_icons=true&theme=swift&border_radius=29.5" height="60%" width="65%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=CSE-446&border_icons=true&theme=swift&border_radius=29.5" height="55%" width="60%"/>
 </a>
 </p>
 
 <p align="center">
 <span>&nbsp;</span>
 <a href="https://github.com/HaaaSiiiib/EL-evento">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=EL-evento&border_icons=true&theme=swift&border_radius=29.5" height="60%" width="65%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=EL-evento&border_icons=true&theme=swift&border_radius=29.5" height="55%" width="60%"/>
 </a>
 </p>
 
