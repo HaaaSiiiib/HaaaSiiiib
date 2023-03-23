@@ -10,16 +10,18 @@
 
 
 
-- Currently working on building web applications and Blockchain technology. 
-- Trying to learn about Machine learning, Data science, AI.
-- Besides all the techy stuff I'm very much enthusiastic about Astrophysics and anything related to Football.
+- Currently working on building web applications and some deep learning projects. 
+- My research interest falls into the NLP paradigm. Recently exploring the problem of morphological deconstruction for Bangla words.
+- Beside all the techy stuff I'm very much enthusiastic about Astrophysics, music and anything related to Football ⚽
 - Email me at : <img src="https://img.shields.io/badge/fuad13618hasib@gmail.com-c14438?style=oval&logo=Gmail&logoColor=white&link=mailto:fuad13618hasib@gmail.com" width="170" height="17">
 - Reach me up for any type of collaboration. Love working in collabs.
 
 ## 💻 Tech Stack:
-<img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logo=PLEX&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=java&logoColor=007396"><img src="https://img.shields.io/badge/C++-151515?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"><img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=3776AB">![JavaScript](https://img.shields.io/badge/javascript-151515?style=for-the-badge&logo=javascript&logoColor=white) <br/>
-<img src="https://img.shields.io/badge/Frameworks-424242?style=for-the-badge&logo=IPFS&logoColor=FFFFFF"><img src="https://img.shields.io/badge/git-151515?style=for-the-badge&logo=git&logoColor=79740e"><img src="https://img.shields.io/badge/Anrdoid_Studio-151515?style=for-the-badge&logo=Android-Studio&logoColor=3DDC84">![badge-react](https://img.shields.io/badge/react-151515?style=for-the-badge&logo=react&logoColor=79740e) <br/>
-<img src="https://img.shields.io/badge/Database-424242?style=for-the-badge&logo=Redis&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Firebase-151515?style=for-the-badge&logo=Firebase&logoColor=FFCA28"><img src="https://img.shields.io/badge/Mysql-151515?style=for-the-badge&logo=mysql&logoColor=4479A1">
+<img src="https://img.shields.io/badge/Languages-FFFFFF?style=for-the-badge&logo=PLEX&logoColor=424242">   &nbsp; &nbsp; <img src="https://img.shields.io/badge/Java-FBE7A1?style=for-the-badge&logo=java&logoColor=007396">   <img src="https://img.shields.io/badge/C++-566D7E?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFC">  <img src="https://img.shields.io/badge/Python-82CAFF?style=for-the-badge&logo=python&logoColor=3776AB">    ![JavaScript](https://img.shields.io/badge/javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)  ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  <br/>
+
+<img src="https://img.shields.io/badge/Frameworks-FFFFFF?style=for-the-badge&logo=IPFS&logoColor=424242">  &nbsp;  &nbsp;   <img src="https://img.shields.io/badge/MERN--BLUE?style=for-the-badge&logo=appveyor&logoColor=32CD32">    <img src="https://img.shields.io/badge/git-79740e?style=for-the-badge&logo=git&logoColor=white">    <img src="https://img.shields.io/badge/Anrdoid_Studio-C3FDB8?style=for-the-badge&logo=Android-Studio&logoColor=004225">   ![badge-react](https://img.shields.io/badge/react-3A3B3C?style=for-the-badge&logo=react&logoColor=00FFFF) <br/>
+
+<img src="https://img.shields.io/badge/Database-FFFFFF?style=for-the-badge&logo=Redis&logoColor=424242"> &nbsp;  &nbsp;        <img src="https://img.shields.io/badge/MongoDB-045D5D?style=for-the-badge&logo=mongodb&logoColor=white">    <img src="https://img.shields.io/badge/Mysql-BCC6CC?style=for-the-badge&logo=mysql&logoColor=4479A1">       <img src="https://img.shields.io/badge/Firebase-835C3B?style=for-the-badge&logo=Firebase&logoColor=FFCA28"> 
 
 <p>
 <a    href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
