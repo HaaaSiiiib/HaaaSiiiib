@@ -21,7 +21,11 @@
 <img src="https://img.shields.io/badge/Frameworks-424242?style=for-the-badge&logo=IPFS&logoColor=FFFFFF"><img src="https://img.shields.io/badge/git-151515?style=for-the-badge&logo=git&logoColor=79740e"><img src="https://img.shields.io/badge/Anrdoid_Studio-151515?style=for-the-badge&logo=Android-Studio&logoColor=3DDC84">![badge-react](https://img.shields.io/badge/react-151515?style=for-the-badge&logo=react&logoColor=79740e) <br/>
 <img src="https://img.shields.io/badge/Database-424242?style=for-the-badge&logo=Redis&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Firebase-151515?style=for-the-badge&logo=Firebase&logoColor=FFCA28"><img src="https://img.shields.io/badge/Mysql-151515?style=for-the-badge&logo=mysql&logoColor=4479A1">
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=HaaaSiiiib&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></p>
+<a    href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img  align="left" height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HaaaSiiiib&layout=compact&langs_count=10&hide=jupyter%20notebook&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=HaaaSiiiib&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></p>
 
 📌 **Pinned Repositories**
 <p align="center">
