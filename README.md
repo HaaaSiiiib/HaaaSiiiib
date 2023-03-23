@@ -52,8 +52,8 @@
 
 <p align="center">
 <span>&nbsp;</span>
-<a href="https://github.com/HaaaSiiiib/CSE-446">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=CSE-446&border_icons=true&theme=swift&border_radius=29.5" height="55%" width="60%"/>
+<a href="https://github.com/HaaaSiiiib/E-commerce-website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaaaSiiiib&repo=E-commerce-website&border_icons=true&theme=swift&border_radius=29.5" height="55%" width="60%"/>
 </a>
 </p>
 
