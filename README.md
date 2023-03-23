@@ -27,7 +27,10 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=HaaaSiiiib&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="45%"></p>
 
-📌 **Pinned Repositories**
+
+## 📌 **Pinned Repositories**
+
+
 <p align="center">
 <span>&nbsp;</span>
 <a href="https://github.com/HaaaSiiiib/Simple-Licensor">
