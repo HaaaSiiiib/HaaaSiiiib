@@ -26,9 +26,9 @@
 <p>
 <a    href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img  align="left" height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HaaaSiiiib&layout=compact&langs_count=10&hide=jupyter%20notebook&hide_border=false&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
-</a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HaaaSiiiib&theme=dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</a>    
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=HaaaSiiiib&theme=dark&border_radius=6&width=50&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <a   href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img  align="center" height=230 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HaaaSiiiib&show_icons=true&count_private=true&line_height=28&hide_border=false&card_width=550&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Rick Staa's Github stats" />
